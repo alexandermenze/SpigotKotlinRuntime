@@ -1,3 +1,5 @@
 name: SpigotKotlinRuntime
 version: 1.0
 main: de.dca.kotlinruntime.SpigotKotlinRuntime
+author: DudeCalledAlex
+load: STARTUP
